@@ -4,16 +4,14 @@ permalink: /
 title: "Something Awesome!"
 ---
 
-## GitHub Page Template
+## Welcome!
 
-A simple, clean, and responsive theme for your website or blog.
-
-GitHub: <https://github.com/monsieurborges/site-template>
+To Lesik's homepaage
 
 Watch out! This paragraph of text has been emphasized with the `{: .notice--success}` class.
 {: .notice--success}
 
-## Hello World CPP
+## Usual coder
 
 ```cpp
 int main(void) {
@@ -21,9 +19,11 @@ int main(void) {
 }
 ```
 
-## Hello World Bash Script
+## But also a troller
 
-```bash
-#!/bin/bash
-echo "Hello World"
+```lua
+while gay == false do
+    changeSetting(gay, true)
+    task.wait(1)
+end
 ```
