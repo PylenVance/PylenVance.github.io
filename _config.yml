@@ -3,30 +3,30 @@ markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 # Site Settings
-title: "Site Template"
-subtitle: "Awesome Site Template"
-name: "Your Name"
-description: "Your website description!"
+title: "Welcome"
+subtitle: "Lesik's Site"
+name: "Lesik"
+description: "Your usual homepage!"
 locale: "en-US"
 breadcrumbs: true
 search: true
 
 # Site Author
 author:
-  name   : "Your Name"
-  bio: "Your Bio"
+  name   : "Lesik"
+  bio: "17 years old self learned coder"
   avatar : "https://avatars.githubusercontent.com/u/9919?s=110&v=4"
   location: Localhost, GitHub
   links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/"
+    - label: "Discord"
+      icon: "fab fa-fw fa-discord"
+      label: "Username: le_yuki"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/PylenVance"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
-      url: "https://www.youtube.com/"
+      url: "https://www.youtube.com/channel/UC0cg-tFs5LI9fcj9A-UcguQ"
 
 # Social Sharing
 og_image: "https://avatars.githubusercontent.com/u/9919?s=110&v=4"
