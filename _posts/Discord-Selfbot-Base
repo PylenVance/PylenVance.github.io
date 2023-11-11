@@ -11,7 +11,7 @@ categories:
 
 Released on (11/11/2023)
 
-[BTN-Primary](#){: .btn .btn--primary } [BTN-Success](#){: .btn .btn--success} [BTN-Danger](#){: .btn .btn--danger}
+[Link](https://github.com/PylenVance/Discord-SelfbotBase){: .btn .btn--primary } [Report issue](https://github.com/PylenVance/Discord-SelfbotBase/issues){: .btn .btn--danger}
 
 Please be sure to setup correctly!
 {: .notice--warning}
