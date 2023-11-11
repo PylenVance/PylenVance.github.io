@@ -1,6 +1,6 @@
 ---
-title: "Post example"
-excerpt: "Discover more about this site template."
+title: "Discord selbot base"
+excerpt: "Discover a recent node.js V13 discord selfbot base ready for use."
 header:
   teaser: "/assets/images/iss-crossing-the-moon.webp"
 categories:
@@ -9,21 +9,14 @@ categories:
 
 ![ISS crossing the moon]({{ site.baseurl }}/assets/images/iss-crossing-the-moon.webp)
 
-Template built on [Jekyll](https://jekyllrb.com) & [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes)
+Released on (11/11/2023)
 
 [BTN-Primary](#){: .btn .btn--primary } [BTN-Success](#){: .btn .btn--success} [BTN-Danger](#){: .btn .btn--danger}
 
-Watch out! This paragraph of text has been emphasized with the `{: .notice--warning}` class.
+Please be sure to setup correctly!
 {: .notice--warning}
 
-Watch out! This paragraph of text has been emphasized with the `{: .notice--success}` class.
+More features soon
 {: .notice--success}
 
-Watch out! This paragraph of text has been emphasized with the `{: .notice--danger}` class.
-{: .notice--danger}
-
-For detailed instructions check [Minimal Mistakes Quick-Start Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/).
-
-## Newsletter example
-
-{% include newsletter.html %}
+For detailed instructions check [Base Selfbot V13](https://github.com/PylenVance/Discord-SelfbotBase/).
