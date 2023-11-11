@@ -3,17 +3,26 @@ title: "About"
 permalink: /about-your-name-here/
 ---
 
-# About You page example
+# About Me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I'm a 17 year old self taught coder from the netherlands. Looking to met either more people or coders to enjoy time with and perhaps even code with.
+All languages i'm familair with:
+  German
+  Dutch
+  English
+Coding languages:
+  LUA
+  C#
+  Node.JS
+  BATCH
 
 ## 📍 More details
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Feel free to hit me up at anytime on discord.
+My username : le_yuki
 
 ## ❤️ Become a Sponsor example
 
 If you have found my work useful, please support me!
 
 * [GitHub Sponsors](https://github.com/sponsors/){: .btn .btn--success}
-* [PayPal](https://paypal.me/){: .btn .btn--info}
